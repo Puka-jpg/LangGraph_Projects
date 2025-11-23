@@ -11,3 +11,5 @@ wheels/
 .env.local
 .ruff_cache
 .mypy_cache
+
+agent/
