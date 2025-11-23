@@ -8,3 +8,8 @@ wheels/
 
 # Virtual environments
 .venv
+.env.local
+.ruff_cache
+.mypy_cache
+
+agent/
