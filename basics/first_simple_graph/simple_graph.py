@@ -1,6 +1,6 @@
 from langgraph.graph import StateGraph, START, END
 
-from basics.first.schemas import PortfolioState
+from basics.first_simple_graph.schemas import PortfolioState
 
 
 def calc_total(state: PortfolioState) -> PortfolioState:
